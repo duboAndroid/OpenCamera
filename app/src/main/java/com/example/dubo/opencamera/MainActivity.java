@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import java.io.File;
-
+//http://www.cnblogs.com/jenson138/p/4451484.html
 public class MainActivity extends Activity {
 
     private static final int PHOTO_REQUEST_CAREMA = 1;// 拍照
